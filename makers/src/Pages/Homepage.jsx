@@ -7,7 +7,6 @@ const Homepage = () => {
     <div className='h-screen'>
       <Banner/>
       <TimelineVoiceNote/>
-      <TimelineVoiceNote/>
     </div>
   )
 }

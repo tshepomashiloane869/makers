@@ -87,6 +87,7 @@ const AudioPlayer = ({audioFile}) => {
         <div id='waveform' 
             ref={waveFormRef} 
             style={{width:"100%"}}
+            className='mb-4'
             >
         </div>
         <button className='mr-4 text-green-700' onClick={handlePlayPause}>

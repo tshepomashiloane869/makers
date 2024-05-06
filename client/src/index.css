@@ -9,8 +9,7 @@
     font-family: "Outfit", system-ui, sans-serif;
   }
 }
-
-
-html, body {
-  background-color: black;
+div {
+  background-color: rgb(35, 36, 34);
 }
+
